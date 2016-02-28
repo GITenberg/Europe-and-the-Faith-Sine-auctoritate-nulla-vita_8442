@@ -1,0 +1,32 @@
+_repo: Europe-and-the-Faith-Sine-auctoritate-nulla-vita_8442
+creator:
+  author:
+    agent_name: Belloc, Hilaire
+    alias: Belloc, Joseph Hilaire Pierre
+    birthdate: 1870
+    deathdate: 1953
+    gutenberg_agent_id: '2437'
+    url: http://www.gutenberg.org/2009/agents/2437
+    wikipedia: http://en.wikipedia.org/wiki/Hilaire_Belloc
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8442'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Europe -- History'
+- !lcc 'D'
+- !lcsh 'Catholic Church'
+tableOfContents: 'Introduction: the Catholic conscience of history -- What was the
+  Roman empire? -- What was the church in the Roman empire? -- What was the "fall"
+  of the Roman empire? -- The beginning of the nations -- What happened in Britain?
+  -- The dark ages -- The middle ages -- What was the reformation? -- The defection
+  of Britain -- Conclusion.'
+title: 'Europe and the Faith
+
+  "Sine auctoritate nulla vita"'
+url: http://www.gutenberg.org/ebooks/8442
